@@ -1,0 +1,3 @@
+﻿  TextProcessing.c
+D:\VSEVOLOD\Уроки\Временная распаковка\Лаб работа 27\TextProcessing.c(179,6): warning C4013: isalpha: нет определения; предполагается "extern" с возвратом типа "int"
+  TextProcessingProject.vcxproj -> C:\Users\vsevo\source\repos\TextProcessingProject\x64\Debug\TextProcessingProject.exe
