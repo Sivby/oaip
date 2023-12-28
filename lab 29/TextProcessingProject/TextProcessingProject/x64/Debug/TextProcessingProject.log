@@ -1,0 +1,3 @@
+﻿  TextProcessingFile.c
+C:\Users\vsevo\source\repos\TextProcessingProject\TextProcessingProject\TextProcessingFile.c(36,2): warning C4013: TextProcessing: нет определения; предполагается "extern" с возвратом типа "int"
+  TextProcessingProject.vcxproj -> C:\Users\vsevo\source\repos\TextProcessingProject\x64\Debug\TextProcessingProject.exe
